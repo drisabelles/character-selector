@@ -1,5 +1,3 @@
-<div align='center'>
-  
 # Selecionador de Personagem 
 
 > Interface com animação de seleção de personagens, simulando a tela exibida em jogos de combate de video-games retrôs.
