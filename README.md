@@ -1,4 +1,8 @@
+<div align='center'>
+  
 # Selecionador de Personagem 
+  
+</div>
 
 > Interface com animação de seleção de personagens, simulando a tela exibida em jogos de combate de video-games retrôs.
 
@@ -38,12 +42,12 @@ Aqui estão algumas das linguagens e plataformas utilizadas para o desenvolvimen
 <span id="progresso">
 
 ## ✍️ Progresso
-[x] Papel de parede personalizado de acordo com o tema
-[x] Fotos "3x4" das personagens
-[x] Fontes de acordo com as temáticas definidas
-[x] Fotos grandes das personagens que forem selecionadas
-[x] Responsividade
-[x] Animação de seleção 
+- [x] Papel de parede personalizado de acordo com o tema
+- [x] Fotos "3x4" das personagens
+- [x] Fontes de acordo com as temáticas definidas
+- [x] Fotos grandes das personagens que forem selecionadas
+- [x] Responsividade
+- [x] Animação de seleção 
   
 <br />
   
@@ -57,7 +61,21 @@ Em breve!
 <span id="como rodar">
 
 ## ⌨️ Como rodar
-Em breve!
+**Passo 1:** Na página inicial do repositório clicar em "code"
+  
+**Passo 2:** Copiar o link https do repositório
+  
+**Passo 3:** Abrir o CMD do seu computador
+  
+**Passo 4:** Digitar "cd desktop" para  utulizar a área de trabalho como local para salvar o arquivo
+  
+**Passo 5:** Digitar "git clone" e em seguida colar o link copiado do repositório
+  
+**Passo 6:** Volte para a área de trabalho e entre na pasta clonada
+  
+**Passo 7:** Entre na pasta desejada (marvel ou powerpuff-girls) e clique no arquivo "index.html"
+  
+**Passo 8:** Pronto!
 
 <br />
 
